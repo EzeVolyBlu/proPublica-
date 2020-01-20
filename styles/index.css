@@ -1,0 +1,56 @@
+body{
+    font-family: 'Patrick Hand', cursive;
+    padding: 8em;
+}
+.pad-top-bot-0{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.border-w{
+    border-width: 2px !important;
+    border-collapse: collapse !important;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 15em;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+.nav-link{
+    color: #007bff;
+}
+
+.mail-link{
+    text-decoration: underline;
+}
+
+.mail-link:hover{
+    text-decoration: underline;
+}
+
+.active{
+    background-color:silver; 
+}
+
+.dropdown-item:hover{
+    background-color:silver; 
+}
+
+p{
+    text-indent: 1em;
+}
+
+table{
+    text-align: center;
+}
+
+.logo{
+    float: right;
+    margin: 1em;
+}
